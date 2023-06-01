@@ -48,8 +48,7 @@ public class WinHanUsingArraylist {
 
    
        System.out.println(driver.getTitle());    
-             
-       
+          
        
        
        driver.switchTo().window(p);

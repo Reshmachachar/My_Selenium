@@ -11,7 +11,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class GoogleAbout {
 	public static void main(String[] args) {
 WebDriver driver;
-		ChromeOptions option = new ChromeOptions();
+		 ChromeOptions option = new ChromeOptions();
          option.addArguments("--remote-allow-origins=*");
 
          WebDriverManager.chromedriver().setup();

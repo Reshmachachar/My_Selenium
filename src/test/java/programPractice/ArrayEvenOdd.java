@@ -1,6 +1,7 @@
 package programPractice;
 
 public class ArrayEvenOdd {
+	//{12,15,17,18,20,23}; seperate even and odd number in the array and print it
 	public static void main(String[] args) {
 		
 		int arr[]= {12,15,17,18,20,23};
